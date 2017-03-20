@@ -1,0 +1,30 @@
+{
+    "FirstTime":
+	[
+		{
+	    	"title":	"Haere mai, welcome!",
+			"description": "Get access to Maori resources and information that is relevant and important to you.",
+			"backgroundImage": "http://lorempixel.com/400/800/nature/",
+			"foregroundImage": "",
+	        "button": "Continue",
+	    },
+	    {
+	        "title": "Customise your feed",
+			"description": "Select your topics to receive real-time notifications to your smartphone or tablet.",
+			"foregroundImage": "https://www.dropbox.com/s/2y840wacpu8i8sz/tuhono-onboarding.gif?dl=1",
+			"button": "Continue"
+	    },
+		{
+	        "title": "Share & Save",
+			"description": "Share with your whanau and friends or simply save the information and access it when it suits you.",
+			"button": "Continue",
+			"foregroundImage": "https://www.dropbox.com/s/bx7hk86ketzdl7q/Screen%20Shot%202017-03-16%20at%203.22.31%20PM.png?dl=1"
+	    }
+	],
+    ">=1":
+    [
+        {
+            title: "Descrtipn 3"
+        },
+    ]
+}
