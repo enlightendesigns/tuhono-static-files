@@ -1,0 +1,14 @@
+{
+	"offset": 100,
+	"count": 1,
+	"articles" : [
+		{
+			"headline": "Welcome",
+			"summary": "lorem ipsum",
+			"categories": ["iwi", "health"]
+			"datePublished": "2017-03-01T00:00Z"
+			"publishedBy": "Ngai Tahu"
+			"id": "321423423432"
+		}
+	]
+}
